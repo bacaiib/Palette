@@ -1,1 +1,9 @@
+Farbpalette
 
+Rot
+Grün
+Blau
+Geld
+Magenta
+
+Sind alles tolle Farben
